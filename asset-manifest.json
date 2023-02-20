@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react_moosul/static/css/main.942fc9f1.css",
-    "main.js": "/react_moosul/static/js/main.0cf860da.js",
+    "main.js": "/react_moosul/static/js/main.c22aec20.js",
     "index.html": "/react_moosul/index.html",
     "main.942fc9f1.css.map": "/react_moosul/static/css/main.942fc9f1.css.map",
-    "main.0cf860da.js.map": "/react_moosul/static/js/main.0cf860da.js.map"
+    "main.c22aec20.js.map": "/react_moosul/static/js/main.c22aec20.js.map"
   },
   "entrypoints": [
     "static/css/main.942fc9f1.css",
-    "static/js/main.0cf860da.js"
+    "static/js/main.c22aec20.js"
   ]
 }
